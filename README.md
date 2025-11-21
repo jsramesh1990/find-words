@@ -1,5 +1,5 @@
 **Features**
-1. clean_text
+1. **clean_text**
 
 Reads input.txt
 
@@ -9,7 +9,7 @@ Converts text into clean, one-word-per-line format
 
 Generates clean_text output file
 
-2. filter_duplicates
+2.**filter_duplicates**
 
 Reads cleaned words
 
@@ -17,15 +17,14 @@ Removes duplicate entries
 
 Produces filtered.txt
 
-3. sort_stored
-
+3.**sort_stored**
 (Optional – only used if you want sorted storage)
 
 Sorts words alphabetically
 
 Outputs sorted results to stored.txt
 
-4. update_stored
+4. **update_stored**
 
 Compares new words with existing stored words
 
@@ -33,9 +32,8 @@ Adds only missing new words
 
 Ensures your main dictionary stays updated without duplication
 
-Build Instructions
+**Build Instructions**
 
-Run:
 
 make
 
@@ -68,11 +66,11 @@ Keep an ever-growing dictionary efficiently
 
 Use wordlists for NLP, search, linguistics, or vocabulary building
 
-🚀 Future Improvements & Development Roadmap
+**Future Improvements & Development Roadmap**
 
 To improve stability, performance, and usability, the project will evolve with the following planned updates:
 
-1. Improve Code Quality & Stability
+1. **Improve Code Quality & Stability**
 
 Refactor all .cpp files into modular, reusable functions
 
@@ -84,7 +82,7 @@ Improve performance for large files using buffer-based processing instead of lin
 
 Add memory-safety improvements and eliminate edge-case crashes
 
-2. Add Logging and Debug Support
+2. **Add Logging and Debug Support**
 
 Add verbose logging (--verbose option)
 
