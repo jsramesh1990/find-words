@@ -1091,9 +1091,9 @@ difficult
 diffstat
 dig
 digital
-digitallibraryindia
+library
+india
 digitally
-
 digitized
 dip
 dir
@@ -2164,9 +2164,6 @@ learning
 least
 leave
 leaving
-lebuild
-lebuildfixed
-lebuildfixedcontainer
 lecustombuildtxt
 led
 leds
@@ -2179,11 +2176,6 @@ legatees
 leitner
 lensconsidering
 leonardopromicro
-leproductrappsprocbuildqtidistrofullstackperftmpglibcworkqrbrboelinuxqtiroboticsimagerotatargetimageextrecoveryvendoretccamera
-leproductrappsprocbuildqtidistrofullstackperftmpglibcworkqrbrboelinuxqtiroboticsimagerotatargetimageextsystemvendoretccamera
-leproductrappsprocbuildqtidistrofullstackperftmpglibcworkqrbrboelinuxqtiroboticsimagerrootfsvendoretccamera
-leproductrappsprocpokymetarecipesdevtoolsgcclibgccbbdopopulatesysroot
-lequalcommqrbspfapstandardoemleproductrappsprocbuildqtidistrofullstackdebug
 less
 lesson
 let
