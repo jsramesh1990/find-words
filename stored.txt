@@ -1,3 +1,11 @@
+computer
+programming
+hangman
+terminal
+ubuntu
+science
+developer
+keyboard
 alwa
 aarch
 aardvark
@@ -977,7 +985,6 @@ debt
 debts
 debug
 debugging
-
 dec
 decades
 decide
@@ -1844,7 +1851,6 @@ hwmonname
 hyderabad
 hypothetical
 hz
-i2c
 ian
 ic
 icdetect
